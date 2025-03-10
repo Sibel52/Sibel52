@@ -1,4 +1,4 @@
-## Hi there 👋 Ben sibel Öztemel
+ Hi there 👋  sibel Öztemel
 
 <!--
 **Sibel52/Sibel52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
